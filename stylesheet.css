@@ -3,23 +3,31 @@ img.Carousel{
 		width:1500px;
 	}
 
-h3.Binge{
+h2.Binge{
 	text-align: center;
 }
 
-h4.title{
+h3.title{
 	text-align: center;
 }
 
 *{
-	font-family: 'Alegreya', serif;
+	font-family: 'GT Walsheim', serif;
+}
+
+li{
+	font-size: 18px;
 }
 
 p{
-	font-size: 17.5px;
+	font-size: 17px;
 }
 
 hr{
 	padding-top: 25px;
 	padding-bottom: 25px;
+}
+
+img.GoodPt{
+	padding-left: 80px;
 }
