@@ -1,0 +1,25 @@
+img.Carousel{
+		height:1000px;
+		width:1500px;
+	}
+
+h3.Binge{
+	text-align: center;
+}
+
+h4.title{
+	text-align: center;
+}
+
+*{
+	font-family: 'Alegreya', serif;
+}
+
+p{
+	font-size: 17.5px;
+}
+
+hr{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
