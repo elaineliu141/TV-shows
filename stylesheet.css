@@ -1,4 +1,4 @@
-body {
+  body {
       font: 400 15px/1.8 Lato, sans-serif;
       color: #777;
   }
@@ -142,5 +142,10 @@ body {
   img.Carousel {
       height : 1700px;
       width : 1700px;
+  }
+
+  hr{
+    border:1px solid #333333;
+   
   }
 
